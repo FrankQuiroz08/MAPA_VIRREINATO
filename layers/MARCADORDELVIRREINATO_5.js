@@ -1,0 +1,1 @@
+var json_MARCADORDELVIRREINATO_5 = {"type":"FeatureCollection","name":"MARCADORDELVIRREINATO_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"MARCA":"VIRREINATO DEL PERÚ"},"geometry":{"type":"Point","coordinates":[-72.437522840549278,-9.101763741626764]}}]}

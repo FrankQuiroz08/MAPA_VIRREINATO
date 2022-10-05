@@ -1,0 +1,1 @@
+var json_COMANDANCIADEMAINAS_6 = {"type":"FeatureCollection","name":"COMANDANCIADEMAINAS_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"COMA":"COMANDANCIA GENERAL DE MAINAS"},"geometry":{"type":"Point","coordinates":[-76.185753315471487,-3.077821906930368]}}]}
